@@ -1,1 +1,5 @@
-# python_training
+# Learning with Python
+
+- Python
+- Code Example
+- Practices

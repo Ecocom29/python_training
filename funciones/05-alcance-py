@@ -1,0 +1,18 @@
+saludo = "Hola global"
+
+def saludar():
+    global saludo
+    saludo = ""
+    print(saludo)
+    
+
+def saludarWilson():
+    saludo = "Hola Wilson"
+    print(saludo)
+
+saludar()
+
+print(saludo)
+
+#mala practica de usar variables globales 
+#usar variable global => global saludo
